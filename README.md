@@ -1,6 +1,6 @@
 # Data-analysis
 
-Take data and turn into visual data like graphs and other things
+Take excel and turn into visual data like graphs and other things
 
 The main purpose of this repository is to use any excel and be able to access it and make graphs and any kind of edits to it using python and libraries like panda, numpy and matplotlib.pyplot.
 
