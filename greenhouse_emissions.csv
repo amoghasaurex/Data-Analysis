@@ -1,0 +1,137 @@
+Fiscal Year,Category,Type,Scope,Description,Emissions
+2022,Corporate emissions,Gross emissions,Scope 1,"Natural gas, diesel, propane",39700
+2022,Corporate emissions,Gross emissions,Scope 1,Fleet vehicles,12600
+2022,Corporate emissions,Gross emissions,Scope 1,Other (R&D processes & refrigerant leaks),2900
+2022,Corporate emissions,Gross emissions,Scope 2 (market-based),Electricity,0
+2022,Corporate emissions,Gross emissions,Scope 2 (market-based),"Steam, heating, and cooling",3000
+2022,Corporate emissions,Gross emissions,Scope 3,Business travel,113500
+2022,Corporate emissions,Gross emissions,Scope 3,Employee commute,134200
+2022,Corporate emissions,Gross emissions,Scope 3,Upstream fuel,10600
+2022,Corporate emissions,Gross emissions,Scope 3,Work from home (market-based),7500
+2022,Corporate emissions,Gross emissions,Scope 3,Transmission and distribution loss (market-based),0
+2022,Corporate emissions,Gross emissions,Scope 3,Third-party cloud (market-based),0
+2022,Corporate emissions,Carbon removals,,Corporate carbon offsets,-324100
+2022,Product life cycle emissions,Gross emissions,Scope 3,Manufacturing (purchased goods and services),13400000
+2022,Product life cycle emissions,Gross emissions,Scope 3,Product transportation (upstream and downstream),1900000
+2022,Product life cycle emissions,Gross emissions,Scope 3,Product use (use of sold products),4900000
+2022,Product life cycle emissions,Gross emissions,Scope 3,End-of-life processing,80000
+2022,Product life cycle emissions,Carbon removals,,Product carbon offsets,0
+2021,Corporate emissions,Gross emissions,Scope 1,"Natural gas, diesel, propane",40070
+2021,Corporate emissions,Gross emissions,Scope 1,Fleet vehicles,12090
+2021,Corporate emissions,Gross emissions,Scope 1,Other (R&D processes & refrigerant leaks),3040
+2021,Corporate emissions,Gross emissions,Scope 2 (market-based),Electricity,0
+2021,Corporate emissions,Gross emissions,Scope 2 (market-based),"Steam, heating, and cooling",2780
+2021,Corporate emissions,Gross emissions,Scope 3,Business travel,22850
+2021,Corporate emissions,Gross emissions,Scope 3,Employee commute,85570
+2021,Corporate emissions,Gross emissions,Scope 3,Upstream fuel,0
+2021,Corporate emissions,Gross emissions,Scope 3,Work from home (market-based),0
+2021,Corporate emissions,Gross emissions,Scope 3,Transmission and distribution loss (market-based),
+2021,Corporate emissions,Gross emissions,Scope 3,Third-party cloud (market-based),0
+2021,Corporate emissions,Carbon removals,,Corporate carbon offsets,-167000
+2021,Product life cycle emissions,Gross emissions,Scope 3,Manufacturing (purchased goods and services),16200000
+2021,Product life cycle emissions,Gross emissions,Scope 3,Product transportation (upstream and downstream),1750000
+2021,Product life cycle emissions,Gross emissions,Scope 3,Product use (use of sold products),4990000
+2021,Product life cycle emissions,Gross emissions,Scope 3,End-of-life processing,80000
+2021,Product life cycle emissions,Carbon removals,,Product carbon offsets,-500000
+2020,Corporate emissions,Gross emissions,Scope 1,"Natural gas, diesel, propane",39340
+2020,Corporate emissions,Gross emissions,Scope 1,Fleet vehicles,4270
+2020,Corporate emissions,Gross emissions,Scope 1,Other (R&D processes & refrigerant leaks),3830
+2020,Corporate emissions,Gross emissions,Scope 2 (market-based),Electricity,0
+2020,Corporate emissions,Gross emissions,Scope 2 (market-based),"Steam, heating, and cooling",0
+2020,Corporate emissions,Gross emissions,Scope 3,Business travel,153000
+2020,Corporate emissions,Gross emissions,Scope 3,Employee commute,134000
+2020,Corporate emissions,Gross emissions,Scope 3,Upstream fuel,0
+2020,Corporate emissions,Gross emissions,Scope 3,Work from home (market-based),0
+2020,Corporate emissions,Gross emissions,Scope 3,Transmission and distribution loss (market-based),
+2020,Corporate emissions,Gross emissions,Scope 3,Third-party cloud (market-based),0
+2020,Corporate emissions,Carbon removals,,Corporate carbon offsets,-70000
+2020,Product life cycle emissions,Gross emissions,Scope 3,Manufacturing (purchased goods and services),16100000
+2020,Product life cycle emissions,Gross emissions,Scope 3,Product transportation (upstream and downstream),1800000
+2020,Product life cycle emissions,Gross emissions,Scope 3,Product use (use of sold products),4300000
+2020,Product life cycle emissions,Gross emissions,Scope 3,End-of-life processing,60000
+2020,Product life cycle emissions,Carbon removals,,Product carbon offsets,0
+2019,Corporate emissions,Gross emissions,Scope 1,"Natural gas, diesel, propane",40910
+2019,Corporate emissions,Gross emissions,Scope 1,Fleet vehicles,6950
+2019,Corporate emissions,Gross emissions,Scope 1,Other (R&D processes & refrigerant leaks),4870
+2019,Corporate emissions,Gross emissions,Scope 2 (market-based),Electricity,0
+2019,Corporate emissions,Gross emissions,Scope 2 (market-based),"Steam, heating, and cooling",0
+2019,Corporate emissions,Gross emissions,Scope 3,Business travel,326000
+2019,Corporate emissions,Gross emissions,Scope 3,Employee commute,195000
+2019,Corporate emissions,Gross emissions,Scope 3,Upstream fuel,0
+2019,Corporate emissions,Gross emissions,Scope 3,Work from home (market-based),0
+2019,Corporate emissions,Gross emissions,Scope 3,Transmission and distribution loss (market-based),
+2019,Corporate emissions,Gross emissions,Scope 3,Third-party cloud (market-based),0
+2019,Corporate emissions,Carbon removals,,Corporate carbon offsets,0
+2019,Product life cycle emissions,Gross emissions,Scope 3,Manufacturing (purchased goods and services),18900000
+2019,Product life cycle emissions,Gross emissions,Scope 3,Product transportation (upstream and downstream),1400000
+2019,Product life cycle emissions,Gross emissions,Scope 3,Product use (use of sold products),4100000
+2019,Product life cycle emissions,Gross emissions,Scope 3,End-of-life processing,60000
+2019,Product life cycle emissions,Carbon removals,,Product carbon offsets,0
+2018,Corporate emissions,Gross emissions,Scope 1,"Natural gas, diesel, propane",42840
+2018,Corporate emissions,Gross emissions,Scope 1,Fleet vehicles,11110
+2018,Corporate emissions,Gross emissions,Scope 1,Other (R&D processes & refrigerant leaks),3490
+2018,Corporate emissions,Gross emissions,Scope 2 (market-based),Electricity,8730
+2018,Corporate emissions,Gross emissions,Scope 2 (market-based),"Steam, heating, and cooling",0
+2018,Corporate emissions,Gross emissions,Scope 3,Business travel,337000
+2018,Corporate emissions,Gross emissions,Scope 3,Employee commute,183000
+2018,Corporate emissions,Gross emissions,Scope 3,Upstream fuel,0
+2018,Corporate emissions,Gross emissions,Scope 3,Work from home (market-based),0
+2018,Corporate emissions,Gross emissions,Scope 3,Transmission and distribution loss (market-based),
+2018,Corporate emissions,Gross emissions,Scope 3,Third-party cloud (market-based),0
+2018,Corporate emissions,Carbon removals,,Corporate carbon offsets,0
+2018,Product life cycle emissions,Gross emissions,Scope 3,Manufacturing (purchased goods and services),18500000
+2018,Product life cycle emissions,Gross emissions,Scope 3,Product transportation (upstream and downstream),1300000
+2018,Product life cycle emissions,Gross emissions,Scope 3,Product use (use of sold products),4700000
+2018,Product life cycle emissions,Gross emissions,Scope 3,End-of-life processing,50000
+2018,Product life cycle emissions,Carbon removals,,Product carbon offsets,0
+2017,Corporate emissions,Gross emissions,Scope 1,"Natural gas, diesel, propane",36210
+2017,Corporate emissions,Gross emissions,Scope 1,Fleet vehicles,8300
+2017,Corporate emissions,Gross emissions,Scope 1,Other (R&D processes & refrigerant leaks),2540
+2017,Corporate emissions,Gross emissions,Scope 2 (market-based),Electricity,36250
+2017,Corporate emissions,Gross emissions,Scope 2 (market-based),"Steam, heating, and cooling",
+2017,Corporate emissions,Gross emissions,Scope 3,Business travel,121000
+2017,Corporate emissions,Gross emissions,Scope 3,Employee commute,172000
+2017,Corporate emissions,Gross emissions,Scope 3,Upstream fuel,
+2017,Corporate emissions,Gross emissions,Scope 3,Work from home (market-based),
+2017,Corporate emissions,Gross emissions,Scope 3,Transmission and distribution loss (market-based),
+2017,Corporate emissions,Gross emissions,Scope 3,Third-party cloud (market-based),
+2017,Corporate emissions,Carbon removals,,Corporate carbon offsets,
+2017,Product life cycle emissions,Gross emissions,Scope 3,Manufacturing (purchased goods and services),21100000
+2017,Product life cycle emissions,Gross emissions,Scope 3,Product transportation (upstream and downstream),1200000
+2017,Product life cycle emissions,Gross emissions,Scope 3,Product use (use of sold products),4700000
+2017,Product life cycle emissions,Gross emissions,Scope 3,End-of-life processing,40000
+2017,Product life cycle emissions,Carbon removals,,Product carbon offsets,
+2016,Corporate emissions,Gross emissions,Scope 1,"Natural gas, diesel, propane",27000
+2016,Corporate emissions,Gross emissions,Scope 1,Fleet vehicles,7370
+2016,Corporate emissions,Gross emissions,Scope 1,Other (R&D processes & refrigerant leaks),
+2016,Corporate emissions,Gross emissions,Scope 2 (market-based),Electricity,41000
+2016,Corporate emissions,Gross emissions,Scope 2 (market-based),"Steam, heating, and cooling",
+2016,Corporate emissions,Gross emissions,Scope 3,Business travel,118000
+2016,Corporate emissions,Gross emissions,Scope 3,Employee commute,186000
+2016,Corporate emissions,Gross emissions,Scope 3,Upstream fuel,
+2016,Corporate emissions,Gross emissions,Scope 3,Work from home (market-based),
+2016,Corporate emissions,Gross emissions,Scope 3,Transmission and distribution loss (market-based),
+2016,Corporate emissions,Gross emissions,Scope 3,Third-party cloud (market-based),
+2016,Corporate emissions,Carbon removals,,Corporate carbon offsets,
+2016,Product life cycle emissions,Gross emissions,Scope 3,Manufacturing (purchased goods and services),22800000
+2016,Product life cycle emissions,Gross emissions,Scope 3,Product transportation (upstream and downstream),1200000
+2016,Product life cycle emissions,Gross emissions,Scope 3,Product use (use of sold products),4900000
+2016,Product life cycle emissions,Gross emissions,Scope 3,End-of-life processing,300000
+2016,Product life cycle emissions,Carbon removals,,Product carbon offsets,
+2015,Corporate emissions,Gross emissions,Scope 1,"Natural gas, diesel, propane",19360
+2015,Corporate emissions,Gross emissions,Scope 1,Fleet vehicles,8740
+2015,Corporate emissions,Gross emissions,Scope 1,Other (R&D processes & refrigerant leaks),
+2015,Corporate emissions,Gross emissions,Scope 2 (market-based),Electricity,42460
+2015,Corporate emissions,Gross emissions,Scope 2 (market-based),"Steam, heating, and cooling",
+2015,Corporate emissions,Gross emissions,Scope 3,Business travel,139940
+2015,Corporate emissions,Gross emissions,Scope 3,Employee commute,172970
+2015,Corporate emissions,Gross emissions,Scope 3,Upstream fuel,
+2015,Corporate emissions,Gross emissions,Scope 3,Work from home (market-based),
+2015,Corporate emissions,Gross emissions,Scope 3,Transmission and distribution loss (market-based),
+2015,Corporate emissions,Gross emissions,Scope 3,Third-party cloud (market-based),
+2015,Corporate emissions,Carbon removals,,Corporate carbon offsets,
+2015,Product life cycle emissions,Gross emissions,Scope 3,Manufacturing (purchased goods and services),29600000
+2015,Product life cycle emissions,Gross emissions,Scope 3,Product transportation (upstream and downstream),1300000
+2015,Product life cycle emissions,Gross emissions,Scope 3,Product use (use of sold products),6600000
+2015,Product life cycle emissions,Gross emissions,Scope 3,End-of-life processing,500000
+2015,Product life cycle emissions,Carbon removals,,Product carbon offsets,
