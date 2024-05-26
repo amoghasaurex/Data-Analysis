@@ -6,4 +6,4 @@ The main purpose of this repository is to use any excel and be able to access it
 
 I made this to be able to see the carbon emissions of Apple and come up with some predictions.
 
-Anyways Enjoyyyy 😃😃
+Anyways Enjoyyyy 😃:)
